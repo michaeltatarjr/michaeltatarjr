@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaeltatarjr
-- 👀 I’m interested in learning more about data analytics
-- 🌱 I’m currently learning google data analyst certificate
+- 👀 I’m interested in learning more about data science
+- 🌱 I’m currently learning Data Science at the Nashville Software School
 - 💞️ I’m looking to collaborate on some early first project and easy wins
 - 📫 How to reach me email me, or message me here.
 
