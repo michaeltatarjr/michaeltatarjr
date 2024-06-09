@@ -8,7 +8,7 @@
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>👋 Hi, I’m @michaeltatarjr
 -  I like Data. I like finding interesting things.  I like to marry my Data Science skills with other areas, such as Process Improvement, Lean Six Sigma, TOC, etc. 
-- I’m a recent graduate of an 9 month long intensive Data Science apprenticeship
+- I’m a recent graduate of an intensive Data Science apprenticeship which kind of looks at it all. Machine learning, NLP, Graphing dbs, R, Python, SQL, etc.  
 - I’m looking to work on interesting projects, etc. My wife is impressed. She thinks I'm "clever"
 - Look around at what I've got in my GitHub, and email me. </p>
 </div>
