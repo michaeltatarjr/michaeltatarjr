@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaeltatarjr
-- 👀 I’m interested in learning more about data science
-- 🌱 I’m currently learning Data Science at the Nashville Software School
-- 💞️ I’m looking to collaborate on some early first project and easy wins
-- 📫 How to reach me email me, or message me here.
+- 👀 I’m a Data Science professional.  I like to marry my Data Science skills with areas, such as process improvement, Lean Six Sigma, Marketing, etc. 
+- 🌱 I’m a recent graduate of an 9 month long intensive Data Science apprenticeship
+- 💞️ I’m looking to work on interesting projects, etc. 
+- 📫 Look around at what I've got in my GitHub, and email me. 
 
 <!---
 michaeltatarjr/michaeltatarjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
