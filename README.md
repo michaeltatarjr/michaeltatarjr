@@ -15,7 +15,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Let's chat </p>
+<p> Let's chat! michael.tatar.jr@gmail.com </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mike-tatar">
     <img src="https://img.shields.io/badge/mike-tatar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
