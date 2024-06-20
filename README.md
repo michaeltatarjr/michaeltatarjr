@@ -12,18 +12,23 @@
 - I’m looking to work on interesting projects, etc. My wife is impressed. She thinks I'm "clever"
 - Look around at what I've got in my GitHub, and email me. </p>
 </div>
+<div style="text-align: center;">
+  <h2 class="section-heading">🌐 Connect with Me</h2>
+  <p>Let's chat! <a href="mailto:michael.tatar.jr@gmail.com">michael.tatar.jr@gmail.com</a></p>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/mike-tatar">
+      <img src="https://img.shields.io/badge/mike-tatar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Let's chat! michael.tatar.jr@gmail.com </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/mike-tatar">
-    <img src="https://img.shields.io/badge/mike-tatar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>- 
-<div align="center">
-  <a href="https://churchfathersproject-michaeltatarjr.streamlit.app">
-    <img src="https://img.shields.io/badge/click%20here%20to%20see%20my%20work-8A2BE2>
+  <div>
+    <a href="https://churchfathersproject-michaeltatarjr.streamlit.app">
+      <img src="https://img.shields.io/badge/click%20here%20to%20see%20my%20work-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" alt="My Work"/>
+    </a>
+  </div>
+</div>
+
 <!---
 michaeltatarjr/michaeltatarjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
