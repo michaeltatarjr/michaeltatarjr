@@ -23,7 +23,7 @@
 </div>- 
 <div align="center">
   <a href="https://churchfathersproject-michaeltatarjr.streamlit.app">
-    <img src="https://img.shields.io/badge/>
+    <img src="https://img.shields.io/badge/click%20here%20to%20see%20my%20work-8A2BE2>
 <!---
 michaeltatarjr/michaeltatarjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
