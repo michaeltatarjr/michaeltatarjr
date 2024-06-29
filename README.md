@@ -29,6 +29,12 @@
   </div>
 </div>
 
+  <div>
+    <a href="https://michaeltatarjr.shinyapps.io/shiny-starter-michaeltatarjr">
+      <img src="https://img.shields.io/badge/click%20here%20to%20see%20some%20other%20work-8A2BE2?style=for-the-badge&logo=rshiny&logoColor=blue" alt="My Work"/>
+    </a>
+  </div>
+</div>
 <!---
 michaeltatarjr/michaeltatarjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
